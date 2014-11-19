@@ -49,6 +49,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'majutsushi/tagbar'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
+Plugin 'jnwhiteh/vim-golang'
 
 call vundle#end()
 filetype plugin indent on
